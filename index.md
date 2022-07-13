@@ -4,32 +4,20 @@ Construiremos un sitio web para la instirucion carlos perez mejia, con finalidad
 
 ### Partes de la pagina
 
-La pagina tiene una estructuracion diferente
+La pagina tiene una estructuracion diferente:
 
-```markdown
-Syntax highlighted code block
+1. Pagina principal
+2. Publicaciones
+3. institucion
+4. sedes
+5. sugerencias
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Desarrollado por:
 
-**Bold** and _Italic_ and `Code` text
+- camilo zuluaica
+- jhoan alexis
+- y ....
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CamiloZuluaica/cpm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
