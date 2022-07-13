@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Project HL(HumanLearning)
 
-You can use the [editor on GitHub](https://github.com/CamiloZuluaica/cpm.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Construiremos un sitio web para la instirucion carlos perez mejia, con finalidad de solucionar el problema de participacion y comunicacion por parte de la comunidad
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Partes de la pagina
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+La pagina tiene una estructuracion diferente
 
 ```markdown
 Syntax highlighted code block
